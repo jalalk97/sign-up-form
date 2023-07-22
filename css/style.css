@@ -207,3 +207,15 @@ form input:focus {
 em {
   font-style: italic;
 }
+
+.button {
+  color: var(--clr-neutral-100);
+  background-color: var(--clr-primary-400);
+  font-family: var(--ff-body);
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-button);
+  padding: 1rem 3.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
