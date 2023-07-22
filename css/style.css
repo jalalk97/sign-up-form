@@ -150,3 +150,23 @@
 .fs-700 {
   font-size: var(--fs-700);
 }
+
+.margin-bottom-400 {
+  margin-bottom: 2rem;
+}
+
+.margin-bottom-500 {
+  margin-bottom: 2.25rem;
+}
+
+.no-text-decoration {
+  text-decoration: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.container {
+  padding: 0 15rem 0 3rem;
+}
